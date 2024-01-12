@@ -7,3 +7,8 @@ One fact about me is that I owned a Tarantula in 5th grade.
 
 My favorite class is comp sci
 
+### My favorite things
+- My favorite color is green
+- My favorite number is 8
+- My favorite ice cream flavor is mint chocolate chip
+- My favorite holiday is Hollween
